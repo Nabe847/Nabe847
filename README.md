@@ -1,6 +1,6 @@
-## TLDR
+## Summary
 
-Frontend and Backend developer.
+Frontend and Backend developer.  
 Interested in system architecture.
 
 ## Skills
